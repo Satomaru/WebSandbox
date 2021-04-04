@@ -25,5 +25,6 @@ EclipseのPreferencesで、以下を設定します。
 実行方法
 --------
 
+1. （初回のみ） WebSandboxプロジェクトを右クリックして、[Tomcat プロジェクト] - [コンテキスト定義を更新]を選択します。
 1. Tomcat PluginでTomcatを起動します。
 2. ブラウザから[サイトURL](http://localhost:8080/Sandbox/)を閲覧します。
